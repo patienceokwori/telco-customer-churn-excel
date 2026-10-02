@@ -76,7 +76,7 @@ The following helper columns were created:
 
 ## Dashboard
 
-![Telco Customer Churn Dashboard](telco_churn_dashboard.png)
+![Telco Customer Churn Dashboard](Screenshot%202026-10-02%20110008.png)
 
 ## Project Files
 
